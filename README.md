@@ -26,11 +26,10 @@ https://aisi1110-vitaedge.hf.space
 
 ## Screenshots
 
-(Add screenshots here)
 
 ## Project Goal
 
-To provide accessible AI-assisted healthcare triage support in underserved rural areas.
+To provide accessible AI-assisted healthcare triage support during natural calamities.
 
 ## Disclaimer
 
